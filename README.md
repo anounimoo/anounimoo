@@ -6,4 +6,4 @@
 
 ![Meu GitHub status](https://github-readme-stats.vercel.app/api?username=anounimoo&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/anounimoo/anounimoo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/anounimoo/rafaballerini/blob/output/github-contribution-grid-snake.svg)
